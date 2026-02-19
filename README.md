@@ -208,7 +208,7 @@ Logs all administrative actions for audit purposes.
 
 ### OpenAI Configuration
 - **Library Version**: OpenAI >= 1.12.0 (uses new AsyncOpenAI client)
-- **Default Model**: gpt-4-turbo-preview
+- **Default Model**: gemini-2.0-flash
 - **Temperature**: 0.7
 - **Max Tokens**: 2000 per response
 - **Custom Base URL**: Supports OpenAI-compatible APIs (e.g., Liara.ir, Azure OpenAI)
@@ -274,7 +274,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📄 License
 
-This project is provided as-is for educational and personal use.
+MIT License
 
 ## ⚠️ Important Notes
 
