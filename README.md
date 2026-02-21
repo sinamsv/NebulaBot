@@ -1,8 +1,11 @@
 # Nebula - AI-Powered Discord Admin Bot
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.3+-blue)
+[![Documentation](https://img.shields.io/badge/Docs-Documentation-blue)](./DOCUMENTATION.md)
+[![Migration](https://img.shields.io/badge/Guide-Migration-orange)](./MIGRATION_GUIDE.md)
+[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE.txt)
+
 
 Nebula is an advanced AI-powered Discord bot built with Python and discord.py, featuring conversational AI capabilities, memory management, and comprehensive admin tools.
 
